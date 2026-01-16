@@ -16,28 +16,28 @@
     "build": "run-s build:*"
   },
   "devDependencies": {
-    "@babel/cli": "^7.8.4",
+    "@babel/cli": "^7.28.3",
     "@babel/core": "^7.8.4",
     "@babel/polyfill": "^7.8.3",
     "@babel/preset-env": "^7.8.4",
-    "cssnano": "^4.1.10",
-    "firebase-tools": "^7.12.1",
+    "cssnano": "^7.1.2",
+    "firebase-tools": "^13.6.0",
     "glob": "^7.1.6",
     "html-minifier": "^4.0.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^9.0.0",
     "npm-run-all": "^4.1.5",
     "plop-logger": "^3.0.0",
-    "postcss": "^7.0.26",
-    "postcss-preset-env": "^6.7.0",
+    "postcss": "^8.5.6",
+    "postcss-preset-env": "^10.6.0",
     "puppeteer": "^2.1.1",
     "rimraf": "^3.0.2",
-    "rollup": "^1.31.0",
+    "rollup": "^2.79.2",
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-uglify": "^6.0.4",
     "sass-mq": "^5.0.1",
     "serve-handler": "^6.1.1",
-    "sharp": "^0.24.0",
+    "sharp": "^0.32.6",
     "uglify-js": "^3.7.7",
-    "workbox-build": "^5.0.0"
+    "workbox-build": "^7.4.0"
   }
 }
